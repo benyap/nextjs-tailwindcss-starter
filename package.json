@@ -1,6 +1,6 @@
 {
   "name": "nextjs-tailwindcss-starter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Ben Yap <contact@benyap.com>",
   "repository": "git@github.com:benyap/nextjs-tailwindcss-starter.git",
   "description": "An opinionated Next.js 10 template project with support for Tailwind CSS, Tailwind CSS Forms and Sass.",
